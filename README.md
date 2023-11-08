@@ -18,3 +18,12 @@ Type
 ```
 
 Already done! No plugin managers, just a great minimalist approach.
+
+However, I use some  extra keybinds to give back some functionality:
+Here are the binds that I use:
+```bash
+noremap n j
+noremap e k
+noremap i l
+noremap u i
+noremap l u```
