@@ -28,3 +28,4 @@ noremap i l
 noremap u i
 noremap l u
 ```
+You can find my full .vimrc on another file in this repository.
